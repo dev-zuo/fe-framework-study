@@ -44,3 +44,5 @@ Koa + MongoDB 实现，仓库：[zuo-config-server v0.1.0](https://github.com/zu
 ### vue3+ts+vite+ElementPlus+sass+axios
 
 实现代码地址：[zuo-config-fe v0.1.0](https://github.com/zuoxiaobai/zuo-config-fe/tree/0.1.0)
+
+在线体验地址：[config.zuo11.com](http://config.zuo11.com)
