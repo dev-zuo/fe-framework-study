@@ -46,3 +46,7 @@ Koa + MongoDB 实现，仓库：[zuo-config-server v0.1.0](https://github.com/zu
 实现代码地址：[zuo-config-fe v0.1.0](https://github.com/zuoxiaobai/zuo-config-fe/tree/0.1.0)
 
 在线体验地址：[config.zuo11.com](http://config.zuo11.com)
+
+### React(v18.2) + Antd(v5.8) + React-router(v6.15) + Axios + React-redux
+
+仓库地址：[2-react-config-fe](https://github.com/react-challenge/2-react-config-fe)
